@@ -1,0 +1,5 @@
+123 Wassaf Baloch 19 Male B+ve 312 0 78650 2/3/2023 5/3/2023 0 VIP-Male 0
+1234 Maryam Ayubi 19 Female B+ve 123 0 35000 1/1/2023 20/1/2023 12 Female-Officer 7
+12345 Zain Momin 19 Male A-ve 3213 1 27500 5/1/2023 20/1/2023 9 ICU-&-Burn 9
+7841 Danish Siddique 21 Male B+ve 398129 0 12230 3/1/2023 27/1/2023 7 Skin 4
+1538 Rooma Siddiqui 11 Female B+ve 1234 0 5487 4/1/2023 7/1/2023 8 Children 9
